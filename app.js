@@ -3,5 +3,5 @@ btnn = document.getElementById("btn");
 
 function msg(){
     alert("God is good");
-    config
+    var a = confirm('Happy with message')
 }
